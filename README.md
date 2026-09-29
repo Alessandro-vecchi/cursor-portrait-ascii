@@ -33,8 +33,6 @@ If the portrait looks *away* from the cursor horizontally, rebuild with `--no-re
 
 - Use bright, soft, frontal light and a plain background. Light from one side leaves half the face in
   the dark characters.
-- **Turn your whole head** toward the dot and exaggerate it. Eye-only movement is just 1–2 characters wide
-  in ASCII.
 - Keep the same distance from the screen the whole time. `build.py` warns about any shot where your face is
   more than 10% bigger or smaller than in the center shot.
 - Don't blink while the ring shrinks onto the dot.
@@ -44,7 +42,7 @@ If the portrait looks *away* from the cursor horizontally, rebuild with `--no-re
   left, or a reaction name).
 - Check `debug/contact.jpg` after building. The last row holds the reaction shots.
 
-## Put it on your website
+## Add it on your website
 
 Copy `web/frames.js` and `web/portrait.js` next to your page, then add:
 
